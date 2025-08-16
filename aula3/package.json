@@ -1,0 +1,13 @@
+{
+  "name": "my-await-project",
+  "version": "1.0.0",
+  "description": "A project demonstrating async/await and top-level await.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
